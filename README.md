@@ -1,4 +1,4 @@
-# Chris Lin's Blog [線上Demo](https://chrislinovo.github.io/myblog/)
+# Chris Lin's Blog [線上Demo](https://chrislinovo.github.io/blog/)
 
 # Prologue - Jekyll Theme
 
