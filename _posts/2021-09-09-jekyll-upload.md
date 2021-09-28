@@ -11,7 +11,7 @@ layout: post
 * url:自己Github主頁網址(看該theme是否要設置)
 
 ```js
-baseurl: "/myblog" 
+baseurl: "/blog" 
 url: "https://XXX.github.io"
 ```
 # 2.在Github上建立新的Repository並push上去
@@ -30,7 +30,7 @@ git checkout --orphan gh-pages
 * push上傳上去
 ```html
 git add .
-git remote add origin https://github.com/ChrisLinOvO/myblog.git
+git remote add origin https://github.com/ChrisLinOvO/blog.git
 git commit -m "first commit"
 git push -u origin gh-pages
 ```
@@ -44,7 +44,7 @@ EX:網域:
 ChrisLinOvO.github.io
 
 EX:網址前置字元
-https://ChrisLinOvO.github.io/myblog
+https://ChrisLinOvO.github.io/blog
 ```
 
 * 輸入完案繼續 會得到幾種憑證方式(要github上面有上傳好憑證方式才能點選驗證)
@@ -56,5 +56,5 @@ EX:
 <meta name="google-site-verification" content="XXXXXXXXXXXXXXXXXX" />
 ```
 * SEO設置完成會有一段時間等Google重新刷新才能搜尋到
-* *[Sitemaps](https://www.xml-sitemaps.com/){:target="_blank"}* 將自己Blog Url(https://chrislinovo.github.io/myblog/) 貼上
+* *[Sitemaps](https://www.xml-sitemaps.com/){:target="_blank"}* 將自己Blog Url(https://chrislinovo.github.io/blog/) 貼上
 * 下載sitemap.xml 並將檔案放置在目錄裡 重新推到gh-pages即可

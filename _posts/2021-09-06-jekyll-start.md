@@ -40,8 +40,8 @@ gem install --user-install bundler jekyll
 
 # 3.創立Jekyll專案並cd帶該目錄中
 ```js
-jekyll new myblog
-cd myblog
+jekyll new blog
+cd blog
 ```
 
 # 4.執行專案
