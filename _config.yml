@@ -36,7 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   React Redux 前端
 author: Chris 林志隆
 email: qq2120621@gmail.com
-avatar: assets/images/avatar.jpg
+avatar: assets/images/avatar1.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/blog" # the subpath of your site, e.g. /blog
